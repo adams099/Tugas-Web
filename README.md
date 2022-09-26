@@ -59,5 +59,3 @@ Tambahkan di baris terakhir di file style.css yang sudah didownload
     }
 }
 ```
-# website-adam
-# website-adam
